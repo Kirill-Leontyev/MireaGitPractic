@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//Добавлен комментарий для Git
+//Third commit commend
 
 int main()
 {    
